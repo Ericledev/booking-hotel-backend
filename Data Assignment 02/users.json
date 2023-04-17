@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "642002fce73e1ff0e5ef8dec"
+  },
+  "email": "thu1@yahoo.com",
+  "password": "$2a$10$kByxExrAD3SdAPTNmP0mdujKmOTD0Y63IXDGxrG3.6oL62L02SV02",
+  "fullName": "Le Tuan",
+  "phoneNumber": "0904879944",
+  "idCard": "32345678",
+  "isAdmin": false,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDIwMDJmY2U3M2UxZmYwZTVlZjhkZWMiLCJlbWFpbCI6InRodTFAeWFob28uY29tIiwiaWF0IjoxNjgxMDk2MzMwLCJleHAiOjE2ODM2ODgzMzB9.oqVwpJmX-68g7ti43BXVobl4qcKixkc03m9i5UK5sZ8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6420ff3fdc650c213de5a69a"
+  },
+  "email": "thu@yahoo.com",
+  "password": "$2a$10$J/ikquHybvqYwv1cs.gLYO1bQeYtUI4SvEqzL.3fA1MsgC3NrcSk2",
+  "fullName": "Min Thu",
+  "phoneNumber": "834978834",
+  "idCard": "438972333",
+  "isAdmin": false,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDIwZmYzZmRjNjUwYzIxM2RlNWE2OWEiLCJlbWFpbCI6InRodSIsImlhdCI6MTY4MDE0Mjc2NCwiZXhwIjoxNjgyNzM0NzY0fQ.4YOy4QohcwcVqCZuUhtGwjnCGgPw9yGTAha6ioMmsHU",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6424e1c896212b53de5bc729"
+  },
+  "email": "thu2@yahoo.com",
+  "password": "$2a$10$m9qvrVk9MjIGXi.0DR0XtO20rFvp76mcF4VcdGwssEs992Jnk.3Ui",
+  "fullName": "Minh Thu",
+  "phoneNumber": "392847434",
+  "idCard": "23452345634",
+  "isAdmin": false,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDI0ZTFjODk2MjEyYjUzZGU1YmM3MjkiLCJlbWFpbCI6InRodTJAeWFob28uY29tIiwiaWF0IjoxNjgxMDQ4MzA2LCJleHAiOjE2ODM2NDAzMDZ9.FSAhUbhfSwyoIqmdJuuPy-SW0we24MHblmi90PimUYY",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6426504496e317dcb337223a"
+  },
+  "email": "thu3@yahoo.com",
+  "password": "$2a$10$0TESIMvOdbbl4kUpDCs/KOvcuiPLLxhDBv5ONzE8DCN4iUXF8Xq3S",
+  "fullName": null,
+  "phoneNumber": null,
+  "idCard": null,
+  "isAdmin": true,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDI2NTA0NDk2ZTMxN2RjYjMzNzIyM2EiLCJlbWFpbCI6InRodTNAeWFob28uY29tIiwiaWF0IjoxNjgxMDk3MzU0LCJleHAiOjE2ODM2ODkzNTR9.Q2pKgcPa-ZnlTZ5AZ8mP8rfrnnmgrBMFOWV9svruHro",
+  "__v": 0
+}]

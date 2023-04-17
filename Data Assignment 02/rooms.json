@@ -1,0 +1,249 @@
+[{
+  "_id": {
+    "$oid": "6310dd998cfecfd90b30ca28"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-01T16:28:09.506Z"
+  },
+  "desc": "King size bed",
+  "maxPeople": 3,
+  "price": 200,
+  "roomNumbers": [
+    101,
+    102,
+    103
+  ],
+  "title": "2 Bed Room",
+  "updatedAt": {
+    "$date": "2022-09-02T06:43:27.616Z"
+  },
+  "hotelId": {
+    "$oid": "6311a54a4a642f0142349086"
+  }
+},{
+  "_id": {
+    "$oid": "6310e01a8cfecfd90b30ca30"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-01T16:38:50.351Z"
+  },
+  "desc": "1 Bathroom",
+  "maxPeople": 2,
+  "price": 150,
+  "roomNumbers": [
+    202
+  ],
+  "title": "1 Bed Room",
+  "updatedAt": {
+    "$date": "2022-09-01T16:38:50.351Z"
+  },
+  "hotelId": {
+    "$oid": "642d2468cc88b75ffd9a631b"
+  }
+},{
+  "_id": {
+    "$oid": "6311b2a24a642f01423490d6"
+  },
+  "__v": 1,
+  "createdAt": {
+    "$date": "2022-09-02T07:37:06.178Z"
+  },
+  "desc": "Welcome drink, Coffee & tea, Express check-in, Free Premium Wifi, Free WiFi, Drinking water",
+  "maxPeople": 2,
+  "price": 600,
+  "roomNumbers": [
+    201,
+    202
+  ],
+  "title": "Basement Double Room",
+  "updatedAt": {
+    "$date": "2022-09-02T07:37:06.178Z"
+  },
+  "hotelId": {
+    "$oid": "6311a54a4a642f0142349086"
+  }
+},{
+  "_id": {
+    "$oid": "6311b3944a642f01423490df"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-02T07:41:08.213Z"
+  },
+  "desc": "Free breakfast for 2",
+  "maxPeople": 2,
+  "price": 700,
+  "roomNumbers": [
+    203,
+    205
+  ],
+  "title": "Superior basement room",
+  "updatedAt": {
+    "$date": "2022-09-02T07:41:08.213Z"
+  },
+  "hotelId": {
+    "$oid": "6311a54a4a642f0142349086"
+  }
+},{
+  "_id": {
+    "$oid": "6311b47b4a642f01423490f4"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-02T07:44:59.829Z"
+  },
+  "desc": "Welcome drink, Coffee & tea, Express check-in, Free Premium Wifi, Free WiFi, Drinking water",
+  "maxPeople": 2,
+  "price": 700,
+  "roomNumbers": [
+    303,
+    403,
+    404
+  ],
+  "title": "Deluxe Room",
+  "updatedAt": {
+    "$date": "2022-09-02T07:44:59.829Z"
+  },
+  "hotelId": {
+    "$oid": "6311a54a4a642f0142349086"
+  }
+},{
+  "_id": {
+    "$oid": "6311be30f2fce6ea18172fa8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-02T08:26:24.542Z"
+  },
+  "desc": "Welcome drink, Coffee & tea, Express check-in, Free WiFi, Drinking water, Free fitness center access",
+  "maxPeople": 2,
+  "price": 300,
+  "roomNumbers": [
+    101,
+    102
+  ],
+  "title": "Deluxe Window",
+  "updatedAt": {
+    "$date": "2022-09-02T08:26:24.542Z"
+  },
+  "hotelId": {
+    "$oid": "6311bd07f2fce6ea18172fa3"
+  }
+},{
+  "_id": {
+    "$oid": "6311be52f2fce6ea18172faf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-02T08:26:58.319Z"
+  },
+  "desc": "Extra low price! (non-refundable)",
+  "maxPeople": 2,
+  "price": 425,
+  "roomNumbers": [
+    202,
+    203,
+    205
+  ],
+  "title": "Premier City View Room",
+  "updatedAt": {
+    "$date": "2022-09-02T08:26:58.319Z"
+  },
+  "hotelId": {
+    "$oid": "6311bd07f2fce6ea18172fa3"
+  }
+},{
+  "_id": {
+    "$oid": "6311c083f2fce6ea18172fba"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-02T08:36:19.990Z"
+  },
+  "desc": "Pay nothing until September 04, 2022",
+  "maxPeople": 2,
+  "price": 350,
+  "roomNumbers": [
+    101,
+    102
+  ],
+  "title": "Budget Double Room",
+  "updatedAt": {
+    "$date": "2022-09-02T08:36:19.990Z"
+  },
+  "hotelId": {
+    "$oid": "6311bf37f2fce6ea18172fb6"
+  }
+},{
+  "_id": {
+    "$oid": "6311c0a8f2fce6ea18172fc3"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-02T08:36:56.388Z"
+  },
+  "desc": "Free cancellation before September 06, 2022",
+  "maxPeople": 2,
+  "price": 350,
+  "roomNumbers": [
+    202,
+    203,
+    205
+  ],
+  "title": "Budget Twin Room",
+  "updatedAt": {
+    "$date": "2022-09-02T08:36:56.388Z"
+  },
+  "hotelId": {
+    "$oid": "6311bf37f2fce6ea18172fb6"
+  }
+},{
+  "_id": {
+    "$oid": "6430152ef7e844b8c948945b"
+  },
+  "title": "Phong doi",
+  "price": 300,
+  "maxPeople": 3,
+  "desc": "1 giuong to, 1 duong be",
+  "roomNumbers": [
+    101,
+    102
+  ],
+  "hotelId": {
+    "$oid": "642bfce79de21a5befbccc1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64301c03f0fb3a0738f3b617"
+  },
+  "title": "Phong don",
+  "price": 150,
+  "maxPeople": 2,
+  "desc": "1 giuong doi",
+  "roomNumbers": [
+    201
+  ],
+  "hotelId": {
+    "$oid": "642bfce79de21a5befbccc1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64318e63cd3216f942cc2b35"
+  },
+  "title": "double My Home HCM",
+  "price": 300,
+  "maxPeople": 5,
+  "desc": "2 bed",
+  "roomNumbers": [
+    101,
+    102
+  ],
+  "hotelId": {
+    "$oid": "642bfcec9de21a5befbccc1e"
+  },
+  "__v": 2
+}]

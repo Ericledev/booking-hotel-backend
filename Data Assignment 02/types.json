@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "64153f1a825df60714676ff3"
+  },
+  "name": "Hotels",
+  "count": 233,
+  "image": "https://lh3.googleusercontent.com/pw/AMWts8BTcUvxb_ZQ1WAKReLxuT0BHXpYYsQQV5TsWYE1NtAmvXT1JdweXN1UXWsGnGW55kNLw9dcZdtkiac-cvuaYhXFl03BC4fBNwYUTt4BRFfyyBntYhnYzXk6cIHb1sINvIFBYrsrmbwmmKO7BKOx4mw=s300-no"
+},{
+  "_id": {
+    "$oid": "64153f1a825df60714676ff4"
+  },
+  "name": "Apartments",
+  "count": 2331,
+  "image": "https://lh3.googleusercontent.com/pw/AMWts8COdNCiNeic9oiqyK8K9RodZ3bFmL0jGGy49RmY-m_aQy9nLEtb3Vim4fyn9EVl-2bkaTCJ8ScZGC72Z2VejvisVN78agifKT6yCLtxPqdbkeFTXykL5NrrfZNPe1fW9NZxahbb1stbF_U_jpuqz6I=w320-h213-no"
+},{
+  "_id": {
+    "$oid": "64153f1a825df60714676ff5"
+  },
+  "name": "Resorts",
+  "count": 2331,
+  "image": "https://lh3.googleusercontent.com/pw/AMWts8DQm9pzclvZ-qEwrxp__UI7JmRw3ce3jpADgJGjMPseiDKKHAabV-XQMGFS4cXhERrAASd6Y7uvp0q7ccsmIPHWgcwgQdgwc46BdQxqPTakfjJSxWf3MfI_6YREm4KiXJSGxZHNnLqyy_P_xih3iWw=w320-h213-no"
+},{
+  "_id": {
+    "$oid": "64153f1a825df60714676ff6"
+  },
+  "name": "Villas",
+  "count": 2331,
+  "image": "https://lh3.googleusercontent.com/pw/AMWts8BmQ1HCbzge4xgWcahwNgJlwg2E8-pJ5F86K9E9xhe04Ym4lJWvLD2-4aqHTGnis1LwOL2rXfcP7DnQ6vPNGbZoHJ232qygBhA1fPiepv1QxAuDnCtV1xDvCUQJ8rvGFuWJTG7DgFD_Y4nkJK7v46o=w302-h240-no"
+},{
+  "_id": {
+    "$oid": "64153f1a825df60714676ff7"
+  },
+  "name": "Cabins",
+  "count": 2331,
+  "image": "https://lh3.googleusercontent.com/pw/AMWts8ALxIRDEujQSMOolRtcL7QhJvNsk8rLFLtZoZmzrjw_K65cq6OmaUYkwtH5t1ZIhEjlLAXmPtmp7taoF17QHAplQFu8vpOBSV5XFIPthJwfYa7qCcSOzN_HkyMlavbhDFaHvhBBf6bI9fFsc5tXvw4=w320-h213-no"
+}]
